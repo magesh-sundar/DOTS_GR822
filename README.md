@@ -52,7 +52,7 @@ The project is also hosted [here](https://ap-south-1.quicksight.aws.amazon.com/s
 
 ## Architecture 
 
-![Architecture](https://github.com/Narayanan5-code/DOTS_GR822/blob/main/src/images/system-arch.png)
+![Architecture](https://github.com/Narayanan5-code/SIH_2022/blob/main/src/images/system-arch.png)
 
 ## Modules
 
