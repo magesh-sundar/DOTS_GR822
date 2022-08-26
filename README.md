@@ -123,27 +123,27 @@ data can be also passed using API Keys
 
 #### Lakshmi Narayanan R
 * [GitHub](https://github.com/Narayanan5-code)
-* [LinkedIn] (https://www.linkedin.com/in/lakshmi-narayanan-r/)
+* [LinkedIn](https://www.linkedin.com/in/lakshmi-narayanan-r/)
 
 #### Magesh Sundar G
 * [GitHub](https://github.com/magesh-sundar)
-* [LinkedIn] (https://www.linkedin.com/in/mageshsundarg/)
+* [LinkedIn](https://www.linkedin.com/in/mageshsundarg/)
 
 #### Jaikrishna B
-* [GitHub] (https://github.com/jaikrish2402)
-* [LinkedIn] (https://www.linkedin.com/in/jaikrishna2402/)
+* [GitHub](https://github.com/jaikrish2402)
+* [LinkedIn](https://www.linkedin.com/in/jaikrishna2402/)
 
 #### Mukund R S
-* [GitHub] (https://github.com/mukund-9652)
-* [LinkedIn] (https://www.linkedin.com/in/mukundrs/)
+* [GitHub](https://github.com/mukund-9652)
+* [LinkedIn](https://www.linkedin.com/in/mukundrs/)
 
 #### Shri Harri Priya R
-* [GitHub] (https://github.com/rshriharripriya)
-* [LinkedIn] (https://www.linkedin.com/in/rshriharripriya/)
+* [GitHub](https://github.com/rshriharripriya)
+* [LinkedIn](https://www.linkedin.com/in/rshriharripriya/)
 
 #### Manthra K S
-* [GitHub] (https://github.com/Manthra25)
-* [LinkedIn] (https://www.linkedin.com/in/manthra-k-s-6ab632205/)
+* [GitHub](https://github.com/Manthra25)
+* [LinkedIn](https://www.linkedin.com/in/manthra-k-s-6ab632205/)
 
 You can also see the complete [list of contributors][contributors] who participated in this project.
 
