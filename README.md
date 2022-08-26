@@ -56,7 +56,7 @@ The project is also hosted [here](https://ap-south-1.quicksight.aws.amazon.com/s
 
 ## Modules
 
-### 1. Models 
+### 1. MODELS
 
 #### A.) Autoregressive model (AR)
 This project used AR model, which is Autoregressive model, is Autoregressive (AR) models are a subset of time series models, which can be used to predict future values based on previous observations. 
@@ -69,7 +69,35 @@ It provides an integrated Jupyter authoring notebook instance for easy access to
 #### C.) SageMaker Studio
 An integrated machine learning environment where you can build, train, deploy, and analyze your models all in the same application.
 
-### 2. API
+### 2 .API SERVICES
+
+- We have centrailised model and output datafile available inside the `S3 Bucket` that can be query by calling the API endpoint created using `API GateWay`
+- The Endpoint URL is connected to a `Lambda Function`,where we have added a custom **Layer** to perform data Processing using `Pandas` 
+
+ ##### Using DateTime to fetcht the details like `visibility`,`wind speed`,`wind direction`,`humidity`,`dew point temperature` and `temperature` as `JSON`
+
+- **URL** : https://7ytnzu57ti.execute-api.ap-south-1.amazonaws.com/prod/get-data
+
+- **Authorization** : None 
+
+- **request_body** : date_time
+
+- **Connected Lambda Function** : `getData`
+
+#### Results:
+
+`{
+    "statusCode": 200,
+    "body": "{
+    "time":"20201101 1400", 
+    "Wind_speed":12.0,
+    "Wind_dir":0,
+    "Visibility":2500.0,
+    "Temperature":22.0,
+    "dewpoint":7.0,
+    "Humidity":37.9247722383}"
+}`
+
 
 ### 3. User Interface
 
