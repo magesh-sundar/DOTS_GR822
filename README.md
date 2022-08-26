@@ -47,7 +47,7 @@ This project aims to forecast the Visibility in the airports (or any parameter) 
 
 Open and view the Project using the `.zip` file provided or at my [GitHub Repository](https://github.com/Narayanan5-code/SIH_2022)
 
-The project is also hosted [here](https://ap-south-1.quicksight.aws.amazon.com/sn/accounts/757776451407/dashboards/a647f449-e6c2-4fcc-b7cb-ad6f2e968665?directory_alias=airport-visibility-prediction )
+The project is also hosted on [AWS Platform](https://ap-south-1.quicksight.aws.amazon.com/sn/accounts/757776451407/dashboards/a647f449-e6c2-4fcc-b7cb-ad6f2e968665?directory_alias=airport-visibility-prediction )
 
 
 ## Architecture 
@@ -64,8 +64,10 @@ AR models use regression techniques and rely on autocorrelation in order to make
 Autoregressive model works best with data with short lead times
 
 The performance of progressive predictions of timeseries predictions has been compared against vaerious models like cnnn, rnn ,lstm etc and has shown better accuracy.
+
 #### B.) Sagemaker 
 It provides an integrated Jupyter authoring notebook instance for easy access to your data sources for exploration and analysis.It also provides common machine learning algorithms that are optimized to run efficiently against extremely large data in a distributed environment. 
+
 #### C.) SageMaker Studio
 An integrated machine learning environment where you can build, train, deploy, and analyze your models all in the same application.
 
