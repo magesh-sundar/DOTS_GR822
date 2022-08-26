@@ -126,15 +126,13 @@ data can be also passed using API Keys
         src="src_link_here">
  </iframe>`
  
- Example :
+ #### Example :
  
- `
- <iframe
+`<iframe
         width="960"
         height="720"
         src="https://ap-south-1.quicksight.aws.amazon.com/sn/embed/share/accounts/757776451407/dashboards/a647f449-e6c2-4fcc-b7cb-ad6f2e968665?directory_alias=airport-visibility-prediction">
-</iframe>
- `
+</iframe>`
 
 
 
