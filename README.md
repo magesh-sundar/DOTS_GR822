@@ -100,7 +100,6 @@ An integrated machine learning environment where you can build, train, deploy, a
     "Humidity":37.9247722383}"
 }`
 
-
 ### 3. User Interface
 
 Auto Regressor is a Multi Variant model that uses the output of
@@ -118,6 +117,24 @@ contribute to visibility.
 
 The predicted data is visualised in the frontend for the user and the
 data can be also passed using API Keys
+
+### 4. API Embed Code Format
+
+`<iframe
+        width="960"
+        height="720"
+        src="src_link_here">
+ </iframe>`
+ 
+ Example :
+ 
+ `
+ <iframe
+        width="960"
+        height="720"
+        src="https://ap-south-1.quicksight.aws.amazon.com/sn/embed/share/accounts/757776451407/dashboards/a647f449-e6c2-4fcc-b7cb-ad6f2e968665?directory_alias=airport-visibility-prediction">
+</iframe>
+ `
 
 
 
