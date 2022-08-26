@@ -44,7 +44,7 @@ This project aims to forecast the Visibility in the airports (or any parameter) 
 - [Authors](#authors)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
-- 
+
 Open and view the Project using the `.zip` file provided or at my [GitHub Repository](https://github.com/Narayanan5-code/SIH_2022)
 
 The project is also hosted [here](https://ap-south-1.quicksight.aws.amazon.com/sn/accounts/757776451407/dashboards/a647f449-e6c2-4fcc-b7cb-ad6f2e968665?directory_alias=airport-visibility-prediction )
@@ -52,7 +52,7 @@ The project is also hosted [here](https://ap-south-1.quicksight.aws.amazon.com/s
 
 ## Architecture 
 
-!(/src/images/arch.png?raw=true)
+![Architecture](https://github.com/Narayanan5-code/DOTS_GR822/blob/main/src/images/system-arch.png)
 
 ## Modules
 
